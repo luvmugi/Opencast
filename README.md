@@ -1,11 +1,9 @@
 # Opencast
+
 ```
 露天矿demo
-模型地址：http://192.168.1.224/usr/share/nginx/html/test/anlie1
-视频地址：http://192.168.1.224/usr/share/nginx/html/test/video
-部署地址：http://192.168.1.221/home/ltk/ui
-访问地址：http://192.168.1.221:94/CesiumHome
 ```
+
 ```
 无人机航模处理方法：
 因为无人家飞出来的倾斜摄影，cesium是不能直接使用的,
@@ -16,25 +14,31 @@
 api手册http://cesium.xin/cesium/cn/Documentation1.95/
 github地址https://github.com/CesiumGS/cesium
 ```
+
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
